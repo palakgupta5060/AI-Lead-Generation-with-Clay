@@ -73,31 +73,6 @@ Lead Scoring
 
 ---
 
-## Project Screenshots
-
-### Company Database
-
-![Company Database](screenshots/company_database.png)
-
----
-
-### AI Enrichment
-
-![AI Enrichment](screenshots/company_enrichment.png)
-
----
-
-### Outreach Generation
-
-![Outreach](screenshots/outreach_generation.png)
-
----
-
-### AI Lead Score
-
-![Lead Score](screenshots/lead_score.png)
-
----
 
 ## Skills Demonstrated
 
